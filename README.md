@@ -44,13 +44,13 @@
    pip install streamlit pillow pytesseract pyttsx3 opencv-python torch ultralytics google-generativeai
    
 ### Usage
--Clone the repository:
+# Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/visionmate.git
 cd visionmate
- ### Run the application:
-```
+### Run the application:
+```python
 streamlit run app.py
 #### Upload an image to use the following features:
 
