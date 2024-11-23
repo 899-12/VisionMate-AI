@@ -40,21 +40,19 @@
    ```python
    pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
 2. Install the following Python libraries:
+   '''python
    pip install streamlit pillow pytesseract pyttsx3 opencv-python torch ultralytics google-generativeai
    
 ### Usage
-Clone the repository:
+-Clone the repository:
 
-bash
-Copy code
+'''
 git clone https://github.com/your-username/visionmate.git
 cd visionmate
-Run the application:
-
-bash
-Copy code
+ ### Run the application:
+'''
 streamlit run app.py
-Upload an image to use the following features:
+#### Upload an image to use the following features:
 
 🖼️ Scene Description: Get a detailed description of the uploaded image.
 📜 Text Extraction: Extract and display text from the image.
