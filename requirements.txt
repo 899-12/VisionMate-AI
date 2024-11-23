@@ -1,0 +1,8 @@
+streamlit
+pytesseract
+langchain
+pyttsx3
+opencv-python
+google-cloud-vision
+torch==2.0.1               
+torchvision==0.15.2 
