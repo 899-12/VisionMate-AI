@@ -40,7 +40,7 @@
    ```python
    pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
 2. Install the following Python libraries:
-   '''python
+   ```python
    pip install streamlit pillow pytesseract pyttsx3 opencv-python torch ultralytics google-generativeai
    
 ### Usage
