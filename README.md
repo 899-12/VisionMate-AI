@@ -56,7 +56,7 @@ streamlit run app.py
 ```
 #### Upload an image to use the following features:
 
-🖼️ Scene Description: Get a detailed description of the uploaded image.
-📜 Text Extraction: Extract and display text from the image.
-🎤 Text-to-Speech: Listen to the extracted text as speech.
-🔍 Object Detection: View objects detected in the image.
+-🖼️ Scene Description: Get a detailed description of the uploaded image.
+-📜 Text Extraction: Extract and display text from the image.
+-🎤 Text-to-Speech: Listen to the extracted text as speech.
+-🔍 Object Detection: View objects detected in the image.
