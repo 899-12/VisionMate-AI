@@ -46,9 +46,10 @@
 ### Usage
 # Clone the repository:
 
-```bash
+```
 git clone https://github.com/your-username/visionmate.git
 cd visionmate
+```
 ### Run the application:
 ```python
 streamlit run app.py
