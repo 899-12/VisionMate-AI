@@ -50,7 +50,7 @@
 git clone https://github.com/your-username/visionmate.git
 cd visionmate
  ### Run the application:
-```bash
+```
 streamlit run app.py
 #### Upload an image to use the following features:
 
