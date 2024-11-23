@@ -53,6 +53,7 @@ cd visionmate
 ### Run the application:
 ```python
 streamlit run app.py
+```
 #### Upload an image to use the following features:
 
 🖼️ Scene Description: Get a detailed description of the uploaded image.
